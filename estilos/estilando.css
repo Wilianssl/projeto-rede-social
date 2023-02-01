@@ -32,13 +32,13 @@ section#telefone {
   background-repeat: no-repeat;
   background-image: url('../imagens/frame-iphone.png');
 }
-
 iframe {
   position: relative;
   top: 80px;
   left: 22px;
   height: 471px;
   width: 268px;
+  overflow: hidden;
 }
 
 section#redes-sociais img {
